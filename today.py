@@ -1,6 +1,4 @@
-'''
-This is the module docstring
-'''
-
-
-pass  # YOUR CODE HERE
+def my_name_is():
+    return "fatihsemihcerhan"
+def my_buddy_is():
+    return "fatihsemihcerhan"
